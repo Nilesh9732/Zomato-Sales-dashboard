@@ -1,4 +1,9 @@
 # Zomato Sales Analysis using PowerBi
+Developed a Power BI dashboard to analyze Zomato sales data. The dashboard visualizes key metrics such as sales trends, top-selling dishes, and customer demographics, providing actionable insights for business decision-making.
+
+## Objective 
+To utilize data visualization techniques to uncover patterns and trends in Zomato's sales data, thereby facilitating informed decision-making. The goal is to enhance marketing strategies, optimize menu offerings, and improve overall customer satisfaction by providing a clear understanding of sales dynamics and customer preferences.
+
 ## Roadmap
 
 1. Loading Data in PowerBi Dekstop
